@@ -21,8 +21,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here!](https://github.com/BS-Joy/fm-Profile-card-component)
+- Live Site URL: [Click Here!](https://bs-joy.github.io/fm-Profile-card-component/)
 
 ### Built with
 
