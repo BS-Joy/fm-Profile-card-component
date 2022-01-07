@@ -54,5 +54,4 @@ body {
 ## Acknowledgments
 
 Special Thanks to - [Anosha Ahmed](https://www.frontendmentor.io/profile/anoshaahmed)
-for the background idea.
-# frontendmentor-Profile-card-component
+for the background-image idea.
